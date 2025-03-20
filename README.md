@@ -18,7 +18,7 @@ Single sided flat UV layout to easily make you own designs.
  - UV template
  - texture and alternate design
 
-### Requirement
+### Requirements
  - [Poiyomi Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)
  - [VRCFury](https://vrcfury.com/)
  - Some available parameter space for toggles
@@ -33,6 +33,7 @@ Want more gates? You can duplicate the game objects but you will need to make ne
 
 ### To-Do (maybe)
 - Add more obstacles types (flag, barrier etc)
+- Optimization (if possible)
 Nothing big. Something better will likely replace this :)
 
 ### Credits
