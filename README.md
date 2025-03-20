@@ -1,31 +1,38 @@
 # VRC Drone Gate
-A simple set of obstacles for a VRChat Drone course. Single sided flat UV layout to easily make you own designs.
-**Right now the only object is a 5ft x 5ft gate. I may add more in future.**
+A simple prefab with a droppabable set of obstacles for a VRChat Drone course. Uses VRCFury for world drop.
+Single sided flat UV layout to easily make you own designs.
 
-![](/images/Screenshot.png "Screenshot")
+![](/images/3d.png "3d")
 
+### Screenshots
+<details>
+ 
+![](/images/Screenshot2.png "Screenshot2") 
+![](/images/Screenshot3.png "Screenshot3") 
+![](/images/Screenshot4.png "Screenshot4") 
+</details>
+ 
 ### Contents
+ - Unity prefab containing 10 gates (6x 1x1, 2x 1x2, 2x 2x1)
  - FBX File (44 triangles)
  - UV template
- - Sample texture
+ - texture and alternate design
 
-### Requirements
-[VRCFury](https://vrcfury.com/)
+### Requirement
+ - [Poiyomi Toon Shader](https://github.com/poiyomi/PoiyomiToonShader)
+ - [VRCFury](https://vrcfury.com/)
+ - Some available parameter space for toggles
 
 ### Setup
-1. Import into Unity
-2. Drag object onto avatar in heirarchy
-3. Create a matierial using the texture
-4. Position how you like. I use mostly in desktop so I position slightly in front of my body
-5. (OPTIONAL) You can get fancy and parent objects to a wrist bone for a VR drop. This complicates toggles
-6. Add a VRCFury Toggle script to your avatar
-7. Name your toggle and add two actions: object toggle, world drop
-8. Duplicate the object and toggle for as many gates as you have
+1. Import package into Unity
+2. Drag prefab onto avatar
+3. Done :)
 
-**Tip:** Stack the gates and group under one game object to make ladders and 2x1s
+### Optional
+Want more gates? You can duplicate the game objects but you will need to make new toggles to enable them.
 
 ### To-Do (maybe)
-- Add more obstacles (flag, barrier etc)
+- Add more obstacles types (flag, barrier etc)
 Nothing big. Something better will likely replace this :)
 
 ### Credits
