@@ -2,11 +2,16 @@
 A simple prefab with a droppabable set of obstacles for a VRChat Drone course. Uses VRCFury for world drop.
 Single sided flat UV layout to easily make you own designs.
 
-![](/images/3d.png "3d")
+
+
+### Video
+
+https://github.com/user-attachments/assets/6c4329b0-e11a-41c9-8a35-f2069705439b
 
 ### Screenshots
 <details>
  
+![](/images/3d.png "3d")
 ![](/images/Screenshot2.png "Screenshot2") 
 ![](/images/Screenshot3.png "Screenshot3") 
 ![](/images/Screenshot4.png "Screenshot4") 
