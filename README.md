@@ -1,5 +1,5 @@
 # VRC Drone Gate
-A simple prefab with a droppabable set of obstacles for a VRChat Drone course. Uses VRCFury for world drop.
+A rudimentary sytem of world drop obstacles to construct VRChat Drone course. Uses VRCFury for world drop.
 Single sided flat UV layout to easily make you own designs.
 
 ### Video
